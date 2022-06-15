@@ -1,0 +1,6 @@
+The garden modules I recently had used were qrcode, xcamera and zbarcam and
+I got them included in the app by adding the following to the
+`requirements` setting of buildozer.spec: kivy_garden.qrcode,
+kivy_garden.xcamera, kivy_garden.zbarcam, ...
+
+https://stackoverflow.com/questions/63887380/kivy-app-crash-in-android-but-not-in-pc-buildozer-keyerror-kivy-garden-matpl/63895018#63895018
